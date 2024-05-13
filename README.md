@@ -1,1 +1,3 @@
-# Zero-knowledge
+# Zero-knowledge 
+
+Awesome Decentralized Identity
